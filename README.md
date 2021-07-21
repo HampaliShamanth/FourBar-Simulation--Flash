@@ -1,1 +1,2 @@
-A 2012 project for a comprehensive simulation and analysis of four bar mechanism in Flash
+A 2012 project 
+Comprehensive simulation and analysis of four bar mechanism in Flash
